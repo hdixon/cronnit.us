@@ -8,10 +8,10 @@
 #
 # It's safe to re-run this script
 
-hostname="my.hostname.com"
-client_id="XXXX"
-client_secret="XXXX"
-email="myemail@gmail.com"
+hostname="localhost"
+client_id="QIHoKKI9v9-T-A"
+client_secret="wDINws62J23SbxHaohxAZO5K2mY"
+email="gogogadgethd@gmail.com"
 
 # Make sure we are running as root
 if [ $(whoami) != root ]; then
